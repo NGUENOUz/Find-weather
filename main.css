@@ -45,7 +45,7 @@ body {
 }
 
 #city {
-    background: rgba(255, 94, 0, 0.452);
+    background: rgba(255, 217, 0, 0.452);
 }
 
 #temp {
@@ -53,11 +53,11 @@ body {
 }
 
 #humidity {
-    background: rgba(0, 102, 255, 0.452);
+    background: rgba(255, 0, 13, 0.452);
 }
 
 #wind {
-    background: rgba(114, 143, 143, 0.486);
+    background: rgba(114, 123, 143, 0.486);
 }
 
 h2,
@@ -67,9 +67,10 @@ a {
 }
 
 .btn-secondary a:hover {
-    color: rgb(0, 195, 255) !important;
+    color: rgb(17, 17, 17) !important;
     text-decoration: none;
 }
+
 
 .txt-larg {
     font-size: 1.5em;
@@ -117,6 +118,6 @@ footer {
 
 .bg-form {
 
-    background: rgba(240, 217, 12, 0.781);
+    background: rgba(12, 156, 240, 0.781);
     border-radius: 15px;
 }
